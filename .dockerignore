@@ -1,7 +1,0 @@
-.git/
-.vagrant/
-.vscode/
-/build/
-/obj/
-/tools/
-/downloads/
