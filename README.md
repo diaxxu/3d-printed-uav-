@@ -119,11 +119,6 @@ Render
 
 ---
 
-## Future Improvements
-
-- Custom flight controller board
-  
----
 
 ## BoM ( secret sauce!!) 
  
